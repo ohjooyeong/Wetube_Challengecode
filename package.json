@@ -1,0 +1,22 @@
+{
+  "name": "wetube_challengecode",
+  "version": "1.0.0",
+  "description": "위튜브 챌린지 코드 작성 및 위튜브 영상 복습",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohjooyeong/Wetube_Challengecode.git"
+  },
+  "author": "ohjoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohjooyeong/Wetube_Challengecode/issues"
+  },
+  "homepage": "https://github.com/ohjooyeong/Wetube_Challengecode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
